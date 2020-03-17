@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\bin\Debug\Homework 1 date 210220 winForm.exe.config
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\bin\Debug\Homework 1 date 210220 winForm.exe
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\bin\Debug\Homework 1 date 210220 winForm.pdb
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\obj\Debug\Homework 1 date 210220 winForm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\obj\Debug\Homework_1_date_210220_winForm.Form1.resources
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\obj\Debug\Homework_1_date_210220_winForm.Properties.Resources.resources
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\obj\Debug\Homework 1 date 210220 winForm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\obj\Debug\Homework 1 date 210220 winForm.exe
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\obj\Debug\Homework 1 date 210220 winForm.pdb
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\bin\Debug\Homework1Library.dll
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\bin\Debug\Homework1Library.pdb
+C:\Users\User\source\repos\Homework 1 date 210220 winForm\obj\Debug\Homework 1 date 210220 winForm.csproj.CopyComplete
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\bin\Debug\Homework 1 date 210220 winForm.exe.config
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\bin\Debug\Homework 1 date 210220 winForm.exe
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\bin\Debug\Homework 1 date 210220 winForm.pdb
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\bin\Debug\Homework1Library.dll
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\bin\Debug\Homework1Library.pdb
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\obj\Debug\Homework 1 date 210220 winForm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\obj\Debug\Homework_1_date_210220_winForm.Form1.resources
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\obj\Debug\Homework_1_date_210220_winForm.Properties.Resources.resources
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\obj\Debug\Homework 1 date 210220 winForm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\obj\Debug\Homework 1 date 210220 winForm.csproj.CopyComplete
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\obj\Debug\Homework 1 date 210220 winForm.exe
+C:\Users\User\source\repos\Homework 1\Homework 1 date 210220 winForm\obj\Debug\Homework 1 date 210220 winForm.pdb

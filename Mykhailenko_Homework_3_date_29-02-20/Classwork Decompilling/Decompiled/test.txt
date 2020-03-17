@@ -1,0 +1,16 @@
+public class CustomMath
+{
+    // Methods
+    public static bool Check(double num)
+    {
+        bool flag = true;
+        for (double i = 2.0; i < num; i++)
+        {
+            if ((num % i) == 0.0)
+            {
+                flag = false;
+            }
+        }
+        return flag;
+    }
+}

@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\Mykhailenko_Homework_5\bin\Debug\Mykhailenko_Homework_5.exe.config
+C:\Users\User\source\repos\Mykhailenko_Homework_5\bin\Debug\Mykhailenko_Homework_5.exe
+C:\Users\User\source\repos\Mykhailenko_Homework_5\bin\Debug\Mykhailenko_Homework_5.pdb
+C:\Users\User\source\repos\Mykhailenko_Homework_5\obj\Debug\Mykhailenko_Homework_5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mykhailenko_Homework_5\obj\Debug\Mykhailenko_Homework_5.exe
+C:\Users\User\source\repos\Mykhailenko_Homework_5\obj\Debug\Mykhailenko_Homework_5.pdb
+C:\Users\User\source\repos\Mykhailenko_Homework_5\bin\Debug\Homework 5 Library.dll
+C:\Users\User\source\repos\Mykhailenko_Homework_5\bin\Debug\Homework 5 Library.pdb
+C:\Users\User\source\repos\Mykhailenko_Homework_5\obj\Debug\Mykhailenko_Homework_5.csproj.CopyComplete
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Mykhailenko_Homework_5\bin\Debug\Mykhailenko_Homework_5.exe.config
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Mykhailenko_Homework_5\bin\Debug\Mykhailenko_Homework_5.exe
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Mykhailenko_Homework_5\bin\Debug\Mykhailenko_Homework_5.pdb
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Mykhailenko_Homework_5\bin\Debug\Homework 5 Library.dll
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Mykhailenko_Homework_5\bin\Debug\Homework 5 Library.pdb
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Mykhailenko_Homework_5\obj\Debug\Mykhailenko_Homework_5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Mykhailenko_Homework_5\obj\Debug\Mykhailenko_Homework_5.csproj.CopyComplete
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Mykhailenko_Homework_5\obj\Debug\Mykhailenko_Homework_5.exe
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Mykhailenko_Homework_5\obj\Debug\Mykhailenko_Homework_5.pdb

@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\Homework1 date 210220\bin\Debug\Homework1 date 210220.exe.config
+C:\Users\User\source\repos\Homework1 date 210220\bin\Debug\Homework1 date 210220.exe
+C:\Users\User\source\repos\Homework1 date 210220\bin\Debug\Homework1 date 210220.pdb
+C:\Users\User\source\repos\Homework1 date 210220\bin\Debug\Homework1Library.dll
+C:\Users\User\source\repos\Homework1 date 210220\bin\Debug\Homework1Library.pdb
+C:\Users\User\source\repos\Homework1 date 210220\obj\Debug\Homework1 date 210220.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Homework1 date 210220\obj\Debug\Homework1 date 210220.csproj.CopyComplete
+C:\Users\User\source\repos\Homework1 date 210220\obj\Debug\Homework1 date 210220.exe
+C:\Users\User\source\repos\Homework1 date 210220\obj\Debug\Homework1 date 210220.pdb
+C:\Users\User\source\repos\Homework 1\Homework1 date 210220\bin\Debug\Homework1 date 210220.exe.config
+C:\Users\User\source\repos\Homework 1\Homework1 date 210220\bin\Debug\Homework1 date 210220.exe
+C:\Users\User\source\repos\Homework 1\Homework1 date 210220\bin\Debug\Homework1 date 210220.pdb
+C:\Users\User\source\repos\Homework 1\Homework1 date 210220\bin\Debug\Homework1Library.dll
+C:\Users\User\source\repos\Homework 1\Homework1 date 210220\bin\Debug\Homework1Library.pdb
+C:\Users\User\source\repos\Homework 1\Homework1 date 210220\obj\Debug\Homework1 date 210220.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Homework 1\Homework1 date 210220\obj\Debug\Homework1 date 210220.csproj.CopyComplete
+C:\Users\User\source\repos\Homework 1\Homework1 date 210220\obj\Debug\Homework1 date 210220.exe
+C:\Users\User\source\repos\Homework 1\Homework1 date 210220\obj\Debug\Homework1 date 210220.pdb

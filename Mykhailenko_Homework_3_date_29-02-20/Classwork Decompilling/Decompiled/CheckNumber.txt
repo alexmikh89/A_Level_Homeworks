@@ -1,0 +1,25 @@
+public class Checker
+{
+    // Methods
+    public static bool CheckNum(double VarValue)
+    {
+        if (VarValue == 1.0)
+        {
+            return false;
+        }
+        if (VarValue != 2.0)
+        {
+            double num = Math.Ceiling(Math.Sqrt(VarValue));
+            for (int i = 2; i <= num; i++)
+            {
+                if ((VarValue % ((double) i)) == 0.0)
+                {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+}
+
+ 

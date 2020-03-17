@@ -1,0 +1,8 @@
+public class CW2702
+{
+    // Methods
+    public object Minus(double a, double b)
+    {
+        return (a - b);
+    }
+}

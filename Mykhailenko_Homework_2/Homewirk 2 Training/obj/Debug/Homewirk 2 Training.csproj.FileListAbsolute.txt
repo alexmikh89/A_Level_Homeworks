@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Homewirk 2 Training\bin\Debug\INPUT.txt
+C:\Users\User\source\repos\Homewirk 2 Training\bin\Debug\Homewirk 2 Training.exe.config
+C:\Users\User\source\repos\Homewirk 2 Training\bin\Debug\Homewirk 2 Training.exe
+C:\Users\User\source\repos\Homewirk 2 Training\bin\Debug\Homewirk 2 Training.pdb
+C:\Users\User\source\repos\Homewirk 2 Training\obj\Debug\Homewirk 2 Training.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Homewirk 2 Training\obj\Debug\Homewirk 2 Training.exe
+C:\Users\User\source\repos\Homewirk 2 Training\obj\Debug\Homewirk 2 Training.pdb

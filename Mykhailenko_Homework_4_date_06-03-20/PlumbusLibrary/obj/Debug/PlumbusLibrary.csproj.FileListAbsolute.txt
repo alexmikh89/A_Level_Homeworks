@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\PlumbusLibrary\bin\Debug\PlumbusLibrary.dll
+C:\Users\User\source\repos\PlumbusLibrary\bin\Debug\PlumbusLibrary.pdb
+C:\Users\User\source\repos\PlumbusLibrary\obj\Debug\PlumbusLibrary.dll
+C:\Users\User\source\repos\PlumbusLibrary\obj\Debug\PlumbusLibrary.pdb

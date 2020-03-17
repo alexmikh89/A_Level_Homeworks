@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Homework1Library\bin\Debug\Homework1Library.dll
+C:\Users\User\source\repos\Homework1Library\bin\Debug\Homework1Library.pdb
+C:\Users\User\source\repos\Homework1Library\obj\Debug\Homework1Library.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Homework1Library\obj\Debug\Homework1Library.dll
+C:\Users\User\source\repos\Homework1Library\obj\Debug\Homework1Library.pdb

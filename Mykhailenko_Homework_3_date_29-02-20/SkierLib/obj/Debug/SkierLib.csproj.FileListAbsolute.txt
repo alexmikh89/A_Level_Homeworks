@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\SkierLib\bin\Debug\SkierLib.dll
+C:\Users\User\source\repos\SkierLib\bin\Debug\SkierLib.pdb
+C:\Users\User\source\repos\SkierLib\obj\Debug\SkierLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SkierLib\obj\Debug\SkierLib.dll
+C:\Users\User\source\repos\SkierLib\obj\Debug\SkierLib.pdb

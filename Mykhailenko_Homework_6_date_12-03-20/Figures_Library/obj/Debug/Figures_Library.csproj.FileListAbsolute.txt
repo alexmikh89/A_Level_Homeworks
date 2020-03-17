@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Figures_Library\bin\Debug\Figures_Library.dll
+C:\Users\User\source\repos\Figures_Library\bin\Debug\Figures_Library.pdb
+C:\Users\User\source\repos\Figures_Library\obj\Debug\Figures_Library.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Figures_Library\obj\Debug\Figures_Library.dll
+C:\Users\User\source\repos\Figures_Library\obj\Debug\Figures_Library.pdb
+C:\Users\User\source\repos\Mykhailenko_Homework_6_date_12-03-20\Figures_Library\bin\Debug\Figures_Library.dll
+C:\Users\User\source\repos\Mykhailenko_Homework_6_date_12-03-20\Figures_Library\bin\Debug\Figures_Library.pdb
+C:\Users\User\source\repos\Mykhailenko_Homework_6_date_12-03-20\Figures_Library\obj\Debug\Figures_Library.dll
+C:\Users\User\source\repos\Mykhailenko_Homework_6_date_12-03-20\Figures_Library\obj\Debug\Figures_Library.pdb

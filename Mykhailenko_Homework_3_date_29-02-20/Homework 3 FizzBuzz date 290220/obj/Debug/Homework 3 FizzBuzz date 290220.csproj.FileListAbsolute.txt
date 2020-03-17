@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Homework 3 FizzBuzz date 290220\bin\Debug\Homework 3 FizzBuzz date 290220.exe.config
+C:\Users\User\source\repos\Homework 3 FizzBuzz date 290220\bin\Debug\Homework 3 FizzBuzz date 290220.exe
+C:\Users\User\source\repos\Homework 3 FizzBuzz date 290220\bin\Debug\Homework 3 FizzBuzz date 290220.pdb
+C:\Users\User\source\repos\Homework 3 FizzBuzz date 290220\bin\Debug\FizzBuzz.dll
+C:\Users\User\source\repos\Homework 3 FizzBuzz date 290220\bin\Debug\FizzBuzz.pdb
+C:\Users\User\source\repos\Homework 3 FizzBuzz date 290220\obj\Debug\Homework 3 FizzBuzz date 290220.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Homework 3 FizzBuzz date 290220\obj\Debug\Homework 3 FizzBuzz date 290220.csproj.CopyComplete
+C:\Users\User\source\repos\Homework 3 FizzBuzz date 290220\obj\Debug\Homework 3 FizzBuzz date 290220.exe
+C:\Users\User\source\repos\Homework 3 FizzBuzz date 290220\obj\Debug\Homework 3 FizzBuzz date 290220.pdb

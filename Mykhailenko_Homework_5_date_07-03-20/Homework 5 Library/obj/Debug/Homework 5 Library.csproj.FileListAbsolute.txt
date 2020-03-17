@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Homework 5 Library\obj\Debug\Homework 5 Library.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Homework 5 Library\bin\Debug\Homework 5 Library.dll
+C:\Users\User\source\repos\Homework 5 Library\bin\Debug\Homework 5 Library.pdb
+C:\Users\User\source\repos\Homework 5 Library\obj\Debug\Homework 5 Library.dll
+C:\Users\User\source\repos\Homework 5 Library\obj\Debug\Homework 5 Library.pdb
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Homework 5 Library\bin\Debug\Homework 5 Library.dll
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Homework 5 Library\bin\Debug\Homework 5 Library.pdb
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Homework 5 Library\obj\Debug\Homework 5 Library.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Homework 5 Library\obj\Debug\Homework 5 Library.dll
+C:\Users\User\source\repos\Mykhailenko_Homework_5_date_07-03-20\Homework 5 Library\obj\Debug\Homework 5 Library.pdb
