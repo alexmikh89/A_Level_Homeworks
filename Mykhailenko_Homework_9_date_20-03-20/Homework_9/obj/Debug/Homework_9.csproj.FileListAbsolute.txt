@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\A_Level\Mykhailenko_Homework_9_date_20-03-20\Homework_9\obj\Debug\Homework_9.csprojAssemblyReference.cache
+C:\Users\User\source\repos\A_Level\Mykhailenko_Homework_9_date_20-03-20\Homework_9\bin\Debug\Homework_9.exe.config
+C:\Users\User\source\repos\A_Level\Mykhailenko_Homework_9_date_20-03-20\Homework_9\bin\Debug\Homework_9.exe
+C:\Users\User\source\repos\A_Level\Mykhailenko_Homework_9_date_20-03-20\Homework_9\bin\Debug\Homework_9.pdb
+C:\Users\User\source\repos\A_Level\Mykhailenko_Homework_9_date_20-03-20\Homework_9\bin\Debug\GroupsOrganization.dll
+C:\Users\User\source\repos\A_Level\Mykhailenko_Homework_9_date_20-03-20\Homework_9\bin\Debug\GroupsOrganization.pdb
+C:\Users\User\source\repos\A_Level\Mykhailenko_Homework_9_date_20-03-20\Homework_9\obj\Debug\Homework_9.csproj.CopyComplete
+C:\Users\User\source\repos\A_Level\Mykhailenko_Homework_9_date_20-03-20\Homework_9\obj\Debug\Homework_9.exe
+C:\Users\User\source\repos\A_Level\Mykhailenko_Homework_9_date_20-03-20\Homework_9\obj\Debug\Homework_9.pdb
